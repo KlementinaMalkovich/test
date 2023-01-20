@@ -17,6 +17,7 @@ public class Main {
                 System.out.println("Go");
                 break;
             default:
+            default:
                 System.out.println("Wrong color");
         }
     }
